@@ -1,0 +1,218 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: purple;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.content{
+    height: 100%;
+    width: 80%;
+    background-color: red;
+    margin-left: 20%;
+}
+
+nav{
+    background-color: darkturquoise;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    /*display: inline-block;*/
+}
+.aap{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 35%;
+    height: 12.5%;
+    border: solid;
+    border-radius: 20%;
+}
+nav h2{
+    color: white;
+    margin-left: 10%;
+}
+ul {
+    list-style-type: none;
+}
+
+li{
+    margin-top: 10%;
+    display: block;
+}
+.social li{
+    font-size: 1.3rem;
+    margin-left: 2%;
+    display: inline-block;
+}
+a:link {
+
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:active {
+    text-decoration: underline;
+    color: white;
+}
+
+header{
+    background-color: aquamarine;
+    height: 20%;
+    width: 80%;
+
+
+}
+.een{
+    height: 100%;
+    width: 100%;
+    background-color: green;
+}.twee{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+}.drie{
+    height: 100%;
+    width: 100%;
+    background-color: pink;
+}.vier{
+     height: 100%;
+     width: 100%;
+     background-color: lightblue;
+ }.vijf{
+      height: 100%;
+      width: 100%;
+      background-color: aliceblue;
+  }
+/*home pagina**/
+.een header{
+    background-color: burlywood;
+    width: 100%;
+}
+.een h1{
+    color: white;
+    margin-top: 0;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+
+.een .lijntje{
+    margin: 0 auto;
+    width: 90%;
+    height: 2%;
+    background-color: azure;
+}
+.een .naam{
+    text-align: center;
+    margin: 0 auto;
+    background-color: #c1ffc1;
+    height: 10%;
+    width: 30%;
+    border: solid;
+    margin-top: 5%;
+    border-radius: 20%;
+
+}
+.een p{
+    margin: 5%;
+}
+.een .tekst{
+    margin: 0 auto;
+    background-color: #c1ffc1;
+    height: 30%;
+    width: 50%;
+    border: solid;
+    margin-top: 10%;
+    border-radius: 20%;
+}
+
+.twee header{
+    background-color: burlywood;
+    width: 100%;
+}
+.twee h1{
+    color: white;
+    margin-top: 0;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+
+.twee .lijntje{
+    margin: 0 auto;
+    width: 90%;
+    height: 2%;
+    background-color: azure;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
